@@ -17,7 +17,7 @@ RTCW folder structure looks like this
   * mod1
   * mod2
   * pb  - provided in this repository
-wolf_mp.exe
+  * wolf_mp.exe
 
 ## This repository provides:
 1. The correct exe files PnkBstrB.exe and PnkBstrA.exe
