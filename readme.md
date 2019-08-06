@@ -1,5 +1,5 @@
 # Purpose
-These are supplement windows .bat scripts to start or stop RTCW PunkBuster services. 
+This repository contains files required to run punkbuster for RTCW as well as supplement windows .bat scripts to start or stop RTCW PunkBuster services. 
 
 ## Intro
 PunkBuster is a software to introduce anti-cheat controls for RTCW. It was active in 2000s , but no longer supported. It does not come by default with the game and needs to be acquired separately. In 2019 it's best to get PunkBuster files here because it is possible to download something too new and non-functional off the internet.
