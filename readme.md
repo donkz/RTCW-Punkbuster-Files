@@ -36,7 +36,7 @@ RTCW folder structure looks like this
   
 
 ## How to use
-1. Download anywhere on your PC
+1. Use "Clone or Donwload" button on top right of this page to download and extract anywhere on your PC
 2. Copy pb folder into your rtcw game folder.
 3. Right click on pbstart.bat and Run as Administrator
  Done
